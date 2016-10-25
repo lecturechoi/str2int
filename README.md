@@ -1,4 +1,4 @@
-# String to integer and float
+# String to Number
 
 Complete ```str2int()``` & ```str2float()``` functions!!
 If you have any question, please feel free to email me. lecture.choi@gmail.com.
